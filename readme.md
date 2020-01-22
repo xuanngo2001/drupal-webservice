@@ -11,3 +11,6 @@ The following modules need to be enabled:
 Navigate to **Configuration > JSON:API** and 
 then check **Accept all JSON:API create, read, update, and delete operations.**
 
+# JSON formatter
+
+- https://jsonformatter.org/
