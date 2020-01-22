@@ -2,7 +2,7 @@
 set -e
 # Description: Get node content.
 
-# Change the following to match your Drupal setup:
+# Change the followings to match your Drupal setup:
     server="http://example.com"
     username="admin"
     password="x"
